@@ -1,0 +1,14 @@
+[
+{
+    "internalName": "BalaclavaSuperHeat",
+    "hash": "03c02805862277c82cb6589350aa8696cf935762ea1470511dbbbfe898b7b9ad",
+    "size": 6370928,
+    "plugins": [
+	"com.balaclava.CSuperheat.CSuperheatPlugin"
+    ],
+    "displayName": "Superheat",
+    "description": "Casts superheat to created selected bars",
+    "provider": "Balaclava",
+    "iconURL": "https://oldschool.runescape.wiki/images/Superheat_Item_icon_%28mobile%29.png?4e1c2"
+  }
+]
