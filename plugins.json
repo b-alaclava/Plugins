@@ -1,10 +1,10 @@
 [
 {
     "internalName": "BalaclavaSuperHeat",
-    "hash": "03c02805862277c82cb6589350aa8696cf935762ea1470511dbbbfe898b7b9ad",
-    "size": 6370928,
+    "hash": "3642194c74b4f4869344f5eaa88d64aff0395151ac71b83d91a124e94fd6c647",
+    "size": 6330514,
     "plugins": [
-	"com.balaclava.CSuperheat.CSuperheatPlugin"
+	"com.example.BSuperheat.BSuperheatPlugin"
     ],
     "displayName": "Superheat",
     "description": "Casts superheat to created selected bars",
