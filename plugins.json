@@ -1,8 +1,8 @@
 [
 {
-    "internalName": "BalaclavaSuperHeat",
-    "hash": "3642194c74b4f4869344f5eaa88d64aff0395151ac71b83d91a124e94fd6c647",
-    "size": 6330514,
+    "internalName": "Balaclava",
+    "hash": "c1eb4a3fbcd7dd00d47536a0985f583ea341136c5adec2878e13873858abd93f",
+    "size": 6335821,
     "plugins": [
 	"com.example.BSuperheat.BSuperheatPlugin"
     ],
@@ -10,5 +10,17 @@
     "description": "Casts superheat to created selected bars",
     "provider": "Balaclava",
     "iconURL": "https://oldschool.runescape.wiki/images/Superheat_Item_icon_%28mobile%29.png?4e1c2"
+  },
+{
+    "internalName": "Balaclava",
+    "hash": "c1eb4a3fbcd7dd00d47536a0985f583ea341136c5adec2878e13873858abd93f",
+    "size": 6335821,
+    "plugins": [
+	"com.example.BhighAlch.BHighAlchPlugin"
+    ],
+    "displayName": "High Alchemy",
+    "description": "Casts High alchemy on selected items",
+    "provider": "Balaclava",
+    "iconURL": "https://oldschool.runescape.wiki/images/High_Level_Alchemy_icon_%28mobile%29.png?3e8cc&20181128230908"
   }
 ]
