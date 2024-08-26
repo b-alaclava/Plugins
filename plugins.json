@@ -16,7 +16,7 @@
     "hash": "8fa7a09ba22ca78d1e8782783f698478a589e736fab2c497448e61051e0ce7e2",
     "size": 6332962,
     "plugins": [
-	"com.example.BhighAlch.BHighAlchPlugin"
+	"com.example.BHighAlch.BHighAlchPlugin"
     ],
     "displayName": "High Alchemy",
     "description": "Casts High alchemy on selected items",
