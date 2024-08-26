@@ -13,7 +13,7 @@
   },
 {
     "internalName": "BHighAlch",
-    "hash": "8fa7a09ba22ca78d1e8782783f698478a589e736fab2c497448e61051e0ce7e2",
+    "hash": "b4b9c631f6d4aba35d2dea5e14e5bafa235d9b5138fccc51ee09c4ed967ddfdd",
     "size": 6332962,
     "plugins": [
 	"com.example.BHighAlch.BHighAlchPlugin"
