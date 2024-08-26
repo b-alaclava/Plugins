@@ -1,8 +1,8 @@
 [
 {
     "internalName": "Balaclava",
-    "hash": "c1eb4a3fbcd7dd00d47536a0985f583ea341136c5adec2878e13873858abd93f",
-    "size": 6335821,
+    "hash": "aec00a90566f5eebacdf8a98f659ae08000cfd4e277d8a653a69d0c8aad82ff7",
+    "size": 6336087,
     "plugins": [
 	"com.example.BSuperheat.BSuperheatPlugin"
     ],
@@ -13,8 +13,8 @@
   },
 {
     "internalName": "Balaclava",
-    "hash": "c1eb4a3fbcd7dd00d47536a0985f583ea341136c5adec2878e13873858abd93f",
-    "size": 6335821,
+    "hash": "8fa7a09ba22ca78d1e8782783f698478a589e736fab2c497448e61051e0ce7e2",
+    "size": 6332962,
     "plugins": [
 	"com.example.BhighAlch.BHighAlchPlugin"
     ],
