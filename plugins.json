@@ -22,5 +22,53 @@
     "description": "Casts High alchemy on selected items",
     "provider": "Balaclava",
     "iconURL": "https://oldschool.runescape.wiki/images/High_Level_Alchemy_icon_%28mobile%29.png?3e8cc&20181128230908"
+  },
+{
+    "internalName": "BCooker",
+    "hash": "9e2ec7799d7bf4e5922abe7de465f8512517b62f24a91df23bed3d2f74170e54",
+    "size": 6332889,
+    "plugins": [
+	"com.example.BCooker.BCookerPlugin"
+    ],
+    "displayName": "Cooker",
+    "description": "Cooks food wherever there is a reachable cooking object and bank",
+    "provider": "Balaclava",
+    "iconURL": "https://oldschool.runescape.wiki/images/Cooking_icon_%28detail%29.png?a4903&20220119135436"
+  },
+{
+    "internalName": "BQuickPrayerFlicker",
+    "hash": "57cbc57f7982c91a6feacdb495e1b993deac04d8999192978720bdc569af2c49",
+    "size": 6330083,
+    "plugins": [
+	"com.example.BQuickPrayerFlicker.BQuickPrayerFlickerPlugin"
+    ],
+    "displayName": "Quick Prayer Flicker",
+    "description": "One tick Flicks quick prayers",
+    "provider": "Balaclava",
+    "iconURL": "https://oldschool.runescape.wiki/images/Prayer_icon_%28detail%29.png?a4903&20220119135436"
+  },
+{
+    "internalName": "BButterflyCatcher",
+    "hash": "0a52ffe0e8483fa05674245c24aa4a02c485ed310870fee7641d3fc2dcfcb2f2",
+    "size": 6332492,
+    "plugins": [
+	"com.example.BButterflyCatcher.BButterflyCatcherPlugin"
+    ],
+    "displayName": "Butterfly Catcher",
+    "description": "Catches butterflies and moths",
+    "provider": "Balaclava",
+    "iconURL": "https://oldschool.runescape.wiki/images/Ruby_harvest_icon.png?e3e83&20140505120730"
+  },
+{
+    "internalName": "LunatikTitheFarm",
+    "hash": "bb04e12f02d5785820b2bfca9c47ba432bd0cd8ade9559eaa588340eb4daddc8",
+    "size": 6352104,
+    "plugins": [
+	"com.example.LunatikTitheFarm.AutoTitheFarmPlugin"
+    ],
+    "displayName": "Auto Tithe Farm",
+    "description": "Will do Tithe Farm for you (piggy plugins port)",
+    "provider": "Lunatik",
+    "iconURL": "https://oldschool.runescape.wiki/images/thumb/Logavano_plant_%28grown%29.png/521px-Logavano_plant_%28grown%29.png?1aa80"
   }
 ]
