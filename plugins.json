@@ -1,10 +1,10 @@
 [
 {
     "internalName": "BSnapeGrassCollector",
-    "hash": "e1716038bbcdfb755d11d252109018d07b305e3c0a62a207c5f7d487f023ad35",
+    "hash": "e1716038bbcdfb755d11d252109018d07b305e3c0a62a207c5f7d487f023ad3G",
     "size": 6336383,
     "plugins": [
-	"com.example.BSnapeGrassCollector.BSnapegrassCollectorPlugin"
+	"com.example.BSnapeGrassCollector.BSnapeGrassCollectorPlugin"
     ],
     "displayName": "Snape Grass Collector",
     "description": "Collects Snape grass at Waterbirth, teleports back to Moonclan bank",
