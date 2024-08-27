@@ -1,5 +1,17 @@
 [
 {
+    "internalName": "BSnapeGrassCollector",
+    "hash": "e1716038bbcdfb755d11d252109018d07b305e3c0a62a207c5f7d487f023ad35",
+    "size": 6336383,
+    "plugins": [
+	"com.example.BSnapeGrassCollector.BSnapegrassCollectorPlugin"
+    ],
+    "displayName": "Snape Grass Collector",
+    "description": "Collects Snape grass at Waterbirth, teleports back to Moonclan bank",
+    "provider": "Balaclava",
+    "iconURL": "https://oldschool.runescape.wiki/images/thumb/Snape_grass_detail.png/800px-Snape_grass_detail.png?07164"
+  },
+{
     "internalName": "BSuperHeat",
     "hash": "aec00a90566f5eebacdf8a98f659ae08000cfd4e277d8a653a69d0c8aad82ff7",
     "size": 6336087,
