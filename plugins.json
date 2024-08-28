@@ -1,8 +1,20 @@
 [
 {
+    "internalName": "BLunarSpinFlax",
+    "hash": "edc306401e48c0195b970f8e79df2cd073867d692617fbb6a34d93d6b531c75f",
+    "size": 6335957,
+    "plugins": [
+	"com.example.BLunarSpinFlax.BLunarSpinFlaxPlugin"
+    ],
+    "displayName": "Lunar Spin Flax",
+    "description": "Spins flax at a bank with the lunar spell book",
+    "provider": "Balaclava",
+    "https://oldschool.runescape.wiki/images/Spin_Flax_icon_%28mobile%29.png?d581f"
+  },
+{
     "internalName": "BSnapeGrassCollector",
-    "hash": "e1716038bbcdfb755d11d252109018d07b305e3c0a62a207c5f7d487f023ad35",
-    "size": 6336383,
+    "hash": "d98d762d62c574d495b0acd4e1bd870dfd0f56b6ba25a56e205ab2d769d4fc66",
+    "size": 6336263,
     "plugins": [
 	"com.example.BSnapeGrassCollector.BSnapeGrassCollectorPlugin"
     ],
@@ -19,7 +31,7 @@
 	"com.example.BSuperheat.BSuperheatPlugin"
     ],
     "displayName": "Superheat",
-    "description": "Casts superheat to created selected bars",
+    "description": "Casts superheat to create selected bars",
     "provider": "Balaclava",
     "iconURL": "https://oldschool.runescape.wiki/images/Superheat_Item_icon_%28mobile%29.png?4e1c2"
   },
