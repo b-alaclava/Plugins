@@ -1,5 +1,17 @@
 [
 {
+    "internalName": "Gauntlet",
+    "hash": "edc306401e48c0195b970f8e79df2cd073867d692617fbb6a34d93d6b531c75f",
+    "size": 3822774,
+    "plugins": [
+	"com.example.BGauntlet.BGauntlet"
+    ],
+    "displayName": "Gauntlet",
+    "description": "Free for Ironman accounts only. Full auto, Does T1 prep and can kills Hunllef",
+    "provider": "Balaclava",
+    "iconURL": "https://oldschool.runescape.wiki/images/thumb/Corrupted_youngllef_detail.png/800px-Corrupted_youngllef_detail.png?b1213"
+  },
+{
     "internalName": "BLunarSpinFlax",
     "hash": "edc306401e48c0195b970f8e79df2cd073867d692617fbb6a34d93d6b531c75f",
     "size": 6335957,
